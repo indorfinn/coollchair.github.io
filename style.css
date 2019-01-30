@@ -234,7 +234,8 @@ header {
 }
 
 .product a,
-.trending-product a {
+.trending-product a,
+.trending-product img {
     display: block;
     margin-top: 18px;
     margin-right: 21px;
